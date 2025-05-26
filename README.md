@@ -20,5 +20,5 @@ Enter password: Secure@2024
 ```bash
 git clone https://github.com/Rld2303/Password-Strength-Checker.git
 cd Password-Strength-Checker
-python password_checker.py
+python Password_Strength_Checker.py
 
